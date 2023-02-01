@@ -9,6 +9,6 @@ Steps I followed.
  3.Created required files such as Requirements.txt, Docker_file, Flask_file.
  4.Created a docker image.
  5.Created a container.
- 6.Containarize the image.
+ 6.Containerize the image.
  7.I deployed the model by using the Streamlit tools.
  8.I am predicted the outputs by using the IP address. 
